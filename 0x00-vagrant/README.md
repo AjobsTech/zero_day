@@ -1,0 +1,1 @@
+value of command uname
